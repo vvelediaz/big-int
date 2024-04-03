@@ -1,0 +1,12 @@
+{
+  "name": "big-int",
+  "module": "BigInteger.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jest": "^29.5.12"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
